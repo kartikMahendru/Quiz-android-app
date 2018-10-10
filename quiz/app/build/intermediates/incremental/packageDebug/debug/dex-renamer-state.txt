@@ -1,0 +1,4 @@
+#Thu Jul 12 19:06:41 IST 2018
+base.0=/home/user/Desktop/3rdYearProjects/jxnas/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
